@@ -2,7 +2,7 @@
   <br>
   <img src="https://storage.googleapis.com/golden-wind/github/omni/omni.png" alt="Omni Logo" width="100">
   <br>
-  Omni for <a href="https://github.com/microsoft/terminal">Windows Terminal</a>
+  <a href="https://github.com/getomni">Omni</a> for <a href="https://github.com/microsoft/terminal">Windows Terminal</a>
   <br>
 </h1>
 
